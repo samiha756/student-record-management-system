@@ -68,9 +68,11 @@ Through this project, we aim to demonstrate:
 - Practical database management skills.
 
 Project Information
+
 Project Name: Student Record Management System
 Course: Database Systems Lab
 Project Type: Academic DBMS Project
 
 Author
+
 Developed as part of a Database Management System Lab project.
