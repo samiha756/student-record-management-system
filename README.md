@@ -44,14 +44,13 @@ Main Features
 Project Structure
 
 student-record-management-system/
-│
-├── database/
-│   └── database.sql
-├── src/
-├── index.html
-├── screenshots/
-├── Project_Report.pdf
-└── README.md
+database/
+database.sql
+src/
+index.html
+screenshots/
+Project_Report.pdf
+README.md
 
  How to Run
 1.Browser (Instant):Download or clone this repository and open `index.html` in any modern web browser (requires an internet connection to load the `sql.js` WebAssembly engine).
@@ -61,7 +60,6 @@ Sample Data
 The database includes fictional student records for testing the system.
 
 Learning Outcomes
-
 Through this project, we aim to demonstrate:
 - Database creation and table design.
 - SQL operations (INSERT, SELECT, UPDATE, DELETE).
@@ -70,11 +68,9 @@ Through this project, we aim to demonstrate:
 - Practical database management skills.
 
 Project Information
-
 Project Name: Student Record Management System
 Course: Database Systems Lab
 Project Type: Academic DBMS Project
 
 Author
-
 Developed as part of a Database Management System Lab project.
