@@ -1,6 +1,7 @@
-Student Management System
+Student Record Management System
 
 Project Overview
+
 The Student Management System is a DBMS lab project designed to manage student information efficiently using a MySQL database. It provides a structured way to store, view, search, update, and delete student records.
 The project demonstrates the practical application of Database Management System concepts, SQL queries, and PHP integration.
 
@@ -25,12 +26,19 @@ Database Design
 The project uses a "students" table with the following fields:
 
 Field| Description
+
 student_id| Unique student ID (Primary Key)
+
 full_name| Student's full name
+
 email| Student's email address
+
 department| Student's department
+
 semester| Enrollmemt year
+
 cgpa| Student's CGPA
+
 phone| Contact number
 
 Main Features
@@ -53,10 +61,13 @@ Project_Report.pdf
 README.md
 
  How to Run
+ 
 1.Browser (Instant):Download or clone this repository and open `index.html` in any modern web browser (requires an internet connection to load the `sql.js` WebAssembly engine).
+
 2. SQL Server (Optional):Import `database.sql` into MySQL, MariaDB, or SQLite to inspect the schema and run queries directly.
 
 Sample Data
+
 The database includes fictional student records for testing the system.
 
 Learning Outcomes
