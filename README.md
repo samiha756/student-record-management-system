@@ -1,5 +1,8 @@
 Student Record Management System
 
+https://samiha756.github.io/student-record-management-system/
+
+
 Project Overview
 
 The Student Management System is a DBMS lab project designed to manage student information efficiently using a MySQL database. It provides a structured way to store, view, search, update, and delete student records.
